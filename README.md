@@ -36,7 +36,7 @@ pip install byllm
 
 🚀 Setup & Usage
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/weather-chatbot.git
+git clone this repo
 cd weather-chatbot
 jac run main.jac
 
