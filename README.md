@@ -32,3 +32,44 @@ python -m venv venv
 venv\Scripts\activate
 
 Linux/MacOS:
+
+
+
+---
+
+### Step 2: Install required Python packages
+```bash
+pip install jaclang
+pip install byllm
+````
+
+
+
+
+---
+
+### Step 3: Set your OpenWeather API key as environment variable
+
+Linux/MacOS:
+export OPENWEATHER_API_KEY="your_openweather_api_key"
+
+Windows CMD:
+set OPENWEATHER_API_KEY="your_openweather_api_key"
+
+
+
+---
+
+## Usage
+
+### Step 4: Clone this repository and navigate into it
+
+
+### Step 5: Run the Jac program
+
+## Example Output
+```bash
+Weather Chatbot (AI Edition) initialized!
+AI suggests checking weather for: Nairobi
+The weather in Nairobi is clear sky with temperature 23°C.
+```
